@@ -12,9 +12,11 @@
 # Updating Changes
 1. Select file and click "Save a copy in GitHub"
 ![image](https://github.com/priya1315/3104_Team18/assets/44394816/06434f3c-917e-4eda-93f9-60d5a20aeede)
-2. Add your commit message in the format "Team18-[num] - [the changes made]" and tick the "Include a link to Collaboratory"
-![image](https://github.com/priya1315/3104_Team18/assets/44394816/f707edce-132c-4a7f-be66-41e26cd4e5d9)
-3. Click "Ok"
+2. Issue Number can be found here
+ ![image](https://github.com/priya1315/3104_Team18/assets/44394816/56de977f-b36f-4605-8ee6-0625540cf6fd)
+3. Add your commit message in the format "TEAM18-[num] <Summary of Commit>" and tick the "Include a link to Collaboratory"
+![image](https://github.com/priya1315/3104_Team18/assets/44394816/ccac11e4-fdd5-472c-9e8b-96d60a6a9c23)
+4. Click "Ok"
 
 
 
