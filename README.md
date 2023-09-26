@@ -12,8 +12,8 @@
 # Updating Changes
 1. Select file and click "Save a copy in GitHub"
 ![image](https://github.com/priya1315/3104_Team18/assets/44394816/06434f3c-917e-4eda-93f9-60d5a20aeede)
-2. Add your commit message in the format "GAI[num] - [the changes made]" and tick the "Include a link to Collaboratory"
-![image](https://github.com/priya1315/3104_Team18/assets/44394816/30d24037-6788-4659-a779-9e874915a14c)
+2. Add your commit message in the format "GAI-[num] - [the changes made]" and tick the "Include a link to Collaboratory"
+![image](https://github.com/priya1315/3104_Team18/assets/44394816/f707edce-132c-4a7f-be66-41e26cd4e5d9)
 3. Click "Ok"
 
 
